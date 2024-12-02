@@ -1,16 +1,10 @@
 {
-  "pages": {
-    "/_app": []
-  },
   "devFiles": [],
   "ampDevFiles": [],
   "polyfillFiles": [
     "static/chunks/6d2f2_next_dist_build_polyfills_polyfill-nomodule.js"
   ],
-  "lowPriorityFiles": [
-    "static/development/_ssgManifest.js",
-    "static/development/_buildManifest.js"
-  ],
+  "lowPriorityFiles": [],
   "rootMainFiles": [
     "static/chunks/6d2f2_next_dist_compiled_react-dom_c6b9f8._.js",
     "static/chunks/6d2f2_next_dist_compiled_d2994b._.js",
@@ -21,5 +15,6 @@
     "static/chunks/_c4c472._.js",
     "static/chunks/_19af8d._.js"
   ],
+  "pages": {},
   "ampFirstPages": []
 }
